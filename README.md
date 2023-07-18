@@ -8,6 +8,7 @@ The ImageNet dataset serves as a fundamental resource for training our image rec
 Additionally, our custom-curated Real-Life Violence Situations Dataset contains thousands of both violent and non-violent videos. The dataset includes actual street fights and various non-violent activities such as walking, sports, and eating, providing a diverse set of scenarios to train our models effectively.
 
 https://www.kaggle.com/datasets/yassershrief/hockey-fight-vidoes
+
 https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
 The ResNet50v2 model trained on the violent dataset exhibits outstanding performance, achieving an average accuracy, recall, and precision of 96% for both violence and non-violence. The corresponding F1 score for violence detection reaches 96%. On the other hand, the MobileNet-BiLSTM model trained on the violent dataset demonstrates commendable results, with an average accuracy, recall, and precision of 94% for both violence and non-violence. The F1 score for violence and non-violence detection reaches 94% and 95%, respectively.
